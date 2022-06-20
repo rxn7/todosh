@@ -1,5 +1,5 @@
 # todosh
-Todosh is a useful script that outputs lines where `TODO:` or `FIXME:` has occured
+Todosh is a useful bash script that outputs lines where `TODO:` or `FIXME:` has occured
 
 # usage
-$```./todosh <directories>```   
+$```todo.sh <directories>```   
