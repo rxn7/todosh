@@ -8,4 +8,5 @@ $```todosh <directories>```
 ![example output](./output.png)
 
 # install
-$```sudo curl -o /usr/local/bin/todosh https://raw.githubusercontent.com/rxtthin/todosh/master/todo.sh ; sudo chmod +x /usr/local/bin/todosh```
+Run this command to install to /usr/local/bin/todosh
+```sudo curl -o /usr/local/bin/todosh https://raw.githubusercontent.com/rxtthin/todosh/master/todo.sh ; sudo chmod +x /usr/local/bin/todosh```
